@@ -1,0 +1,242 @@
+.widget-content img {
+	display: block;
+	margin: auto;
+}
+/*--------------------------------------------------------------
+# Categories And Archive Widget
+--------------------------------------------------------------*/
+.widget_categories,
+.widget_archive,
+.widget_layered_nav {
+	ul li {
+        text-transform: capitalize;
+		display: block;
+		color: $soft_nero;
+		line-height: 1em;
+		font-weight: 500;
+        padding-top: 30px;
+        letter-spacing: 0.005em;
+		@include prefixed(transition, all .25s ease-in 0s);
+		position: relative;
+		ul {
+			padding-left: 15px;
+		}
+		.count {		
+			position: absolute;
+			right: 0;
+		}
+	}
+	> ul > li:first-child {
+		border: 0 none;
+		padding-top: 0 !important;
+		margin-top: 0 !important;
+	}
+}
+
+.widget_text {
+	.bsm-select-wrapper li {
+		padding-top: 0 !important;
+		margin-top: 0 !important;
+	} 
+	.bsm-select-wrapper {
+		input.select-dropdown {
+			margin-bottom: 0;
+		    padding: 0 20px;
+		    box-sizing: border-box;
+		    border-top: 1px solid #ddd;
+		    border-left: 1px solid #ddd;
+		    border-right: 1px solid #ddd;
+		    border-radius: 30px;
+		    font-size: 14px;
+		    font-weight: 500;
+		}
+		span.caret {
+			right: 15px;
+		}
+		.bsm-dropdown-content li>a, 
+		.bsm-dropdown-content li>span {
+			font-size: 14px;
+			color: inherit;
+			display: block;
+			line-height: 30px;
+			padding: 10px 16px;
+		}
+	}
+}
+/*------------------------------------------------------------------------
+# Links, Meta, NavMenu, Pages, Recent Comment, Recent Entries  Widget
+-------------------------------------------------------------------------*/
+.widget_links a,
+.widget_meta a,
+.widget_nav_menu .menu a,
+.widget_pages a,
+.widget_recent_comments a,
+.widget_recent_entries a,
+.widget_product_categories a {
+	border: 0;
+}
+.widget_nav_menu .menu a .fa {
+	display: none;
+}
+.widget_links,
+.widget_meta,
+.widget_nav_menu,
+.widget_pages,
+.widget_recent_comments,
+.widget_recent_entries,
+.widget_product_categories {
+	a {
+		border: 0;
+		text-decoration: none;
+	}
+	ul {
+		list-style: none;
+		margin: 0;
+		li {
+			padding-top: 30px;
+			border-bottom: 0 none;
+			font-weight: 500;
+			&:before {
+				content: "-";
+				margin-right: 5px;
+			}
+		}	
+	}
+	> ul {
+		position: relative;
+	}
+	> ul > li:first-child {
+		margin-top: 0;
+		padding-top: 0;
+		border-top: 0 none;
+	}
+}
+.widget {
+	.menu {
+		position: relative;
+		> li:first-child {
+			border-top: 0 none;
+			padding-top: 0;
+		}
+		.sub-menu {
+			box-shadow: 0 0 0 rgba(0,0,0,0);
+		}
+	}
+}
+
+.widget_nav_menu .sub-menu,
+.widget_pages .children {
+	border: 0;
+	margin: 0 0 0 1em;
+}
+.widget_recent_entries .post-date {
+	display: block;
+}
+
+/*--------------------------------------------------------------
+# RSS Widget
+--------------------------------------------------------------*/
+.widget_rss {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	ul {
+		list-style: none;
+		margin: 0;
+		&:last-child {
+			margin-bottom: 0;
+		}
+	}
+	li {
+		margin-bottom: 1.6em;
+		padding-bottom: 25px;
+		&:last-child {
+			margin-bottom: 0;		
+		}
+		.rssSummary {
+			margin: 5px 0;
+			line-height: 1.75em;
+		}
+	}
+	.rsswidget {
+		border: 0;
+		font-weight: 700;
+	}
+	.rsswidget img {
+		margin-top: -4px;
+	}
+	.rss-date, cite {
+		font-size: 0.8em;
+		font-style: normal;
+		display: block;
+		line-height: 2;
+		opacity: 0.8;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	}
+	> p {
+		position: relative;
+	}
+}
+
+#wp-calendar {
+	width: 100%;
+	td, 
+	th {
+		padding: 8px;
+		text-align: center;
+		border: 1px solid #ddd;
+	} 
+}
+/*--------------------------------------------------------------
+# Search Widget
+--------------------------------------------------------------*/
+.widget_search,
+.widget_product_search {
+	.input-group .form-control {
+		padding: 5px 15px;
+		height: 50px;
+	}
+	.btn {
+		border-top-right-radius: 3px;
+		border-bottom-right-radius: 3px;
+		color: $white;
+		i {
+			position: relative;
+			top: -1px;
+			vertical-align: middle;
+		}
+	}
+}
+
+.tagcloud {
+	a {
+		font-size: inherit !important;
+		padding: 10px 20px;
+		font-size: 15px;
+		display: inline-block;
+		margin-right: 5px;
+		margin-bottom: 10px;
+		font-weight: 500;
+		color: $white;
+		&:hover {
+			color: $white !important;
+		}
+	}
+}
+
+.widget_gallery {
+	.gallery-content {
+		img {
+			width: 100%;
+			margin-bottom: 30px;
+		}
+	}
+}
+
+.dark {
+	.widget_categories,
+	.widget_archive,
+	.widget_layered_nav {
+		ul li {
+			color: #e1e1e1;
+		} 
+	}
+}

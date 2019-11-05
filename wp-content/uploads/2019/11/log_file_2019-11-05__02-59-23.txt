@@ -1,0 +1,38 @@
+
+---Downloaded files---
+The import files for: Intrinsic Dark Version were successfully downloaded!
+Initial max execution time = 180
+Files info:
+Site URL = http://localhost:8888/dark
+Data file = C:\wamp64\www\dark/wp-content/uploads/2019/11/demo-content-import-file_2019-11-05__02-59-23.xml
+Widget file = C:\wamp64\www\dark/wp-content/uploads/2019/11/demo-widgets-import-file_2019-11-05__02-59-23.json
+Customizer file = C:\wamp64\www\dark/wp-content/uploads/2019/11/demo-customizer-import-file_2019-11-05__02-59-23.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Blog : 
+
+Image - Ads Widget - Imported
+Categories - Categories - Imported
+Gallery - Our Gallery - Imported
+Tag Cloud - Tag Cloud - Imported
+
+Sidebar Single : 
+
+Image - Ads Widgets - Imported
+Categories - Categories - Imported
+Gallery - Our Gallery - Imported
+Tag Cloud - Tag Cloud - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

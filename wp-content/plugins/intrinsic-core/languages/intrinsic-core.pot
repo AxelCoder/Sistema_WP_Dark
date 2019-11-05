@@ -1,0 +1,3204 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Intrinsic Core\n"
+"POT-Creation-Date: 2019-01-16 20:42+0600\n"
+"PO-Revision-Date: 2019-01-16 20:42+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: intrinsic-core.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: custom-post.php:13
+msgctxt "Post Type General Name"
+msgid "Portfolio"
+msgstr ""
+
+#: custom-post.php:14
+msgctxt "Post Type Singular Name"
+msgid "Portfolio"
+msgstr ""
+
+#: custom-post.php:15 custom-post.php:28 custom-post.php:29
+#: elementor/widgets/portfolio.php:21
+#: inc/metaboxes/views/metaboxes/portfolio_options.php:2
+#: vc-addons/addons/portfolio.php:142
+msgid "Portfolio"
+msgstr ""
+
+#: custom-post.php:16
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: custom-post.php:17
+msgid "All Portfolio"
+msgstr ""
+
+#: custom-post.php:18
+msgid "View Portfolio"
+msgstr ""
+
+#: custom-post.php:19
+msgid "Add New Portfolio"
+msgstr ""
+
+#: custom-post.php:20
+msgid "New Portfolio"
+msgstr ""
+
+#: custom-post.php:21
+msgid "Edit Portfolio"
+msgstr ""
+
+#: custom-post.php:22
+msgid "Update Portfolio"
+msgstr ""
+
+#: custom-post.php:23
+msgid "Search Portfolio"
+msgstr ""
+
+#: custom-post.php:24
+msgid "No portfolio found"
+msgstr ""
+
+#: custom-post.php:25
+msgid "No portfolio found in Trash"
+msgstr ""
+
+#: custom-post.php:53 custom-post.php:54
+msgid "Portfolio Categories"
+msgstr ""
+
+#: custom-post.php:55
+msgid "Search Portfolio Category"
+msgstr ""
+
+#: custom-post.php:56
+msgid "All Portfolio Category"
+msgstr ""
+
+#: custom-post.php:57
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: custom-post.php:58
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: custom-post.php:59
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: custom-post.php:60
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: custom-post.php:61
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: custom-post.php:62
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: custom-post.php:63
+msgid "Portfolio Category"
+msgstr ""
+
+#: elementor/functions.php:48
+msgid "Parallax Background"
+msgstr ""
+
+#: elementor/functions.php:51
+#: inc/metaboxes/views/metaboxes/default_options.php:11
+#: inc/metaboxes/views/metaboxes/default_options.php:16
+#: inc/metaboxes/views/metaboxes/default_options.php:46
+#: inc/metaboxes/views/metaboxes/page_options.php:17
+#: inc/metaboxes/views/metaboxes/page_options.php:22
+#: inc/metaboxes/views/metaboxes/page_options.php:38
+#: inc/metaboxes/views/metaboxes/page_options.php:44
+#: inc/metaboxes/views/metaboxes/page_options.php:79
+#: inc/metaboxes/views/metaboxes/portfolio_options.php:19
+#: inc/metaboxes/views/metaboxes/portfolio_options.php:24
+#: inc/metaboxes/views/metaboxes/post_options.php:12
+#: inc/metaboxes/views/metaboxes/post_options.php:17
+#: inc/metaboxes/views/metaboxes/post_options.php:48
+msgid "Yes"
+msgstr ""
+
+#: elementor/functions.php:52
+#: inc/metaboxes/views/metaboxes/default_options.php:12
+#: inc/metaboxes/views/metaboxes/default_options.php:17
+#: inc/metaboxes/views/metaboxes/default_options.php:47
+#: inc/metaboxes/views/metaboxes/page_options.php:18
+#: inc/metaboxes/views/metaboxes/page_options.php:23
+#: inc/metaboxes/views/metaboxes/page_options.php:39
+#: inc/metaboxes/views/metaboxes/page_options.php:45
+#: inc/metaboxes/views/metaboxes/page_options.php:80
+#: inc/metaboxes/views/metaboxes/portfolio_options.php:20
+#: inc/metaboxes/views/metaboxes/portfolio_options.php:25
+#: inc/metaboxes/views/metaboxes/post_options.php:13
+#: inc/metaboxes/views/metaboxes/post_options.php:18
+#: inc/metaboxes/views/metaboxes/post_options.php:49
+msgid "No"
+msgstr ""
+
+#: elementor/functions.php:113
+msgid "Intrinsic Theme"
+msgstr ""
+
+#: elementor/widgets/about-me.php:20
+msgid "About Me Info"
+msgstr ""
+
+#: elementor/widgets/about-me.php:41
+msgid "Greetings"
+msgstr ""
+
+#: elementor/widgets/about-me.php:49
+msgid "Greetings Text"
+msgstr ""
+
+#: elementor/widgets/about-me.php:59 elementor/widgets/about-me.php:91
+#: elementor/widgets/contact-info.php:73 elementor/widgets/contact-info.php:189
+#: elementor/widgets/service.php:85 elementor/widgets/service.php:291
+#: vc-addons/addons/contact-info.php:61
+msgid "Description"
+msgstr ""
+
+#: elementor/widgets/about-me.php:70 elementor/widgets/about-me.php:78
+#: elementor/widgets/about-me.php:209
+msgid "Additional Info"
+msgstr ""
+
+#: elementor/widgets/about-me.php:85
+msgid "Info Name"
+msgstr ""
+
+#: elementor/widgets/about-me.php:104
+msgid "Buttons"
+msgstr ""
+
+#: elementor/widgets/about-me.php:112
+msgid "Contact Button Text"
+msgstr ""
+
+#: elementor/widgets/about-me.php:115
+msgid "Contact Me"
+msgstr ""
+
+#: elementor/widgets/about-me.php:122
+msgid "Contact Button URL"
+msgstr ""
+
+#: elementor/widgets/about-me.php:125 elementor/widgets/about-me.php:151
+#: elementor/widgets/call-to-actions.php:95
+msgid "https://your-link.com"
+msgstr ""
+
+#: elementor/widgets/about-me.php:138
+msgid "CV Button Text"
+msgstr ""
+
+#: elementor/widgets/about-me.php:141
+msgid "Download CV"
+msgstr ""
+
+#: elementor/widgets/about-me.php:148
+msgid "CV Button URL"
+msgstr ""
+
+#: elementor/widgets/about-me.php:166
+msgid "Greetings Styling"
+msgstr ""
+
+#: elementor/widgets/about-me.php:174
+msgid "Greetings Title"
+msgstr ""
+
+#: elementor/widgets/about-me.php:190
+msgid "Greetings Description"
+msgstr ""
+
+#: elementor/widgets/about-me.php:217
+msgid "Additional Info Name"
+msgstr ""
+
+#: elementor/widgets/about-me.php:233
+msgid "Additional Info Description"
+msgstr ""
+
+#: elementor/widgets/about-me.php:251 elementor/widgets/call-to-actions.php:75
+#: elementor/widgets/mailchimp-newsletter.php:230
+msgid "Button"
+msgstr ""
+
+#: elementor/widgets/about-me.php:259 elementor/widgets/about-me.php:275
+msgid "Contact Hover BG"
+msgstr ""
+
+#: elementor/widgets/about-me.php:288
+msgid "CV Button Hover"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:20
+#: vc-addons/addons/advance-heading.php:54
+msgid "Advance Headings"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:41
+#: elementor/widgets/intrinsic-headings.php:41
+msgid "Headings"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:49
+#: elementor/widgets/advance-headings.php:284 vc-addons/addons/banner.php:88
+msgid "Sub Heading"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:52
+#: elementor/widgets/animated-header.php:68
+msgid "Enter your prefix title"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:53
+msgid "SUB HEADING HERE"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:60
+#: elementor/widgets/advance-headings.php:434
+#: elementor/widgets/intrinsic-headings.php:59
+#: elementor/widgets/intrinsic-headings.php:148
+msgid "Main Heading"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:63
+msgid "Enter your main heading here"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:64
+msgid "I am Advanced Heading"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:71
+#: elementor/widgets/animated-header.php:100
+msgid "Link"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:81
+#: elementor/widgets/animated-header.php:109
+msgid "HTML Tag"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:84
+#: elementor/widgets/animated-header.php:112
+msgid "H1"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:85
+#: elementor/widgets/animated-header.php:113
+msgid "H2"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:86
+#: elementor/widgets/animated-header.php:114
+msgid "H3"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:87
+#: elementor/widgets/animated-header.php:115
+msgid "H4"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:88
+#: elementor/widgets/animated-header.php:116
+msgid "H5"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:89
+#: elementor/widgets/animated-header.php:117
+msgid "H6"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:90
+#: elementor/widgets/animated-header.php:118
+msgid "div"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:91
+#: elementor/widgets/animated-header.php:119
+msgid "span"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:92
+#: elementor/widgets/animated-header.php:120
+msgid "p"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:101
+#: elementor/widgets/advance-headings.php:145
+#: elementor/widgets/animated-header.php:129
+#: elementor/widgets/intrinsic-headings.php:70
+msgid "Alignment"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:105
+#: elementor/widgets/advance-headings.php:149
+#: elementor/widgets/animated-header.php:133
+#: elementor/widgets/intrinsic-headings.php:74
+#: inc/metaboxes/views/metaboxes/default_options.php:27
+#: inc/metaboxes/views/metaboxes/post_options.php:39
+#: vc-addons/addons/advance-heading.php:86
+msgid "Left"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:109
+#: elementor/widgets/advance-headings.php:153
+#: elementor/widgets/advance-headings.php:252
+#: elementor/widgets/animated-header.php:137
+#: elementor/widgets/intrinsic-headings.php:78
+#: vc-addons/addons/advance-heading.php:84
+msgid "Center"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:113
+#: elementor/widgets/advance-headings.php:157
+#: elementor/widgets/animated-header.php:141
+#: elementor/widgets/intrinsic-headings.php:82
+#: inc/metaboxes/views/metaboxes/default_options.php:26
+#: inc/metaboxes/views/metaboxes/post_options.php:38
+#: vc-addons/addons/advance-heading.php:85
+msgid "Right"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:127
+#: elementor/widgets/advance-headings.php:133
+#: elementor/widgets/advance-headings.php:138
+#: elementor/widgets/advance-headings.php:609
+msgid "Advanced Heading"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:136
+msgid "Enter your advanced heading"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:137
+msgid ""
+"This heading will show as style as background and you can move and style "
+"many way."
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:168
+msgid "X Offset"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:191
+msgid "Y Offset"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:214
+msgid "Rotate"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:243
+msgid "Rotate Origin"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:244
+msgid "Origin work when you set rotate value"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:248
+#: inc/metaboxes/views/metaboxes/default_options.php:45
+#: inc/metaboxes/views/metaboxes/page_options.php:33
+#: inc/metaboxes/views/metaboxes/page_options.php:43
+msgid "Default"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:249
+msgid "Top Left"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:250
+msgid "Top Center"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:251
+msgid "Top Right"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:253
+msgid "Center Left"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:254
+msgid "Center Right"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:255
+msgid "Bottom Left"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:256
+msgid "Bottom Center"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:257
+msgid "Bottom Right"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:266
+msgid "Hide at"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:267
+msgid ""
+"Some cases you need to hide it because when you set heading at outer "
+"position mobile device can show wrong width in that case you can hide it at "
+"mobile or tablet device. if you set overflow hidden on section or body so "
+"you don't need it."
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:271
+msgid "Nothing"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:272
+msgid "Tablet and Mobile "
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:273
+msgid "Mobile"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:295
+#: elementor/widgets/advance-headings.php:455
+#: elementor/widgets/advance-headings.php:642
+#: elementor/widgets/animated-header.php:315 elementor/widgets/banner.php:276
+#: elementor/widgets/banner.php:321 elementor/widgets/banner.php:367
+#: elementor/widgets/contact-info.php:87
+#: elementor/widgets/intrinsic-headings.php:116
+#: elementor/widgets/intrinsic-headings.php:160
+#: elementor/widgets/mailchimp-newsletter.php:195
+#: elementor/widgets/portfolio.php:128 elementor/widgets/service.php:247
+#: elementor/widgets/service.php:273 elementor/widgets/service.php:299
+msgid "Color"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:323
+#: elementor/widgets/advance-headings.php:498
+#: elementor/widgets/call-to-actions.php:111
+#: elementor/widgets/counter-item.php:92
+#: elementor/widgets/image-compare.php:120
+#: elementor/widgets/layer-slider.php:61
+#: elementor/widgets/revolution-slider.php:61
+msgid "Style"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:326
+#: elementor/widgets/advance-headings.php:501
+msgid "None"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:327
+#: elementor/widgets/advance-headings.php:502
+msgid "Line"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:336
+#: elementor/widgets/advance-headings.php:511
+msgid "Style Color"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:350
+#: elementor/widgets/advance-headings.php:525
+msgid "Width"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:370
+#: elementor/widgets/advance-headings.php:545
+msgid "Height"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:390
+#: elementor/widgets/advance-headings.php:565
+msgid "Style Position"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:394
+#: elementor/widgets/advance-headings.php:569
+#: elementor/widgets/image-compare.php:96
+msgid "After"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:395
+#: elementor/widgets/advance-headings.php:570
+#: elementor/widgets/image-compare.php:84
+msgid "Before"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:396
+#: elementor/widgets/advance-headings.php:571
+msgid "After and Before"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:397
+#: elementor/widgets/advance-headings.php:572
+msgid "Bottom"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:408
+#: elementor/widgets/advance-headings.php:583
+msgid "Style Spacing"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:445
+#: elementor/widgets/advance-headings.php:620
+msgid "Advanced Style"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:656
+#: elementor/widgets/contact-form.php:191
+#: elementor/widgets/mailchimp-newsletter.php:97
+#: elementor/widgets/mailchimp-newsletter.php:258
+#: elementor/widgets/mailchimp-newsletter.php:356
+#: elementor/widgets/progressbar.php:116
+msgid "Background Color"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:670 elementor/widgets/banner.php:210
+#: elementor/widgets/call-to-actions.php:131
+#: elementor/widgets/contact-form.php:121
+#: elementor/widgets/contact-form.php:245
+#: elementor/widgets/contact-info.php:229
+#: elementor/widgets/counter-item.php:112
+#: elementor/widgets/intrinsic-headings.php:239
+#: elementor/widgets/layer-slider.php:81
+#: elementor/widgets/mailchimp-newsletter.php:147
+#: elementor/widgets/mailchimp-newsletter.php:301
+#: elementor/widgets/revolution-slider.php:81 elementor/widgets/service.php:389
+#: elementor/widgets/testimonials.php:266
+msgid "Padding"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:702
+#: elementor/widgets/intrinsic-headings.php:196
+#: elementor/widgets/mailchimp-newsletter.php:120
+#: elementor/widgets/mailchimp-newsletter.php:270
+msgid "Border"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:713
+#: elementor/widgets/contact-form.php:224
+#: elementor/widgets/contact-form.php:387
+#: elementor/widgets/mailchimp-newsletter.php:133
+#: elementor/widgets/mailchimp-newsletter.php:281
+msgid "Border Radius"
+msgstr ""
+
+#: elementor/widgets/advance-headings.php:734
+msgid "Opacity"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:20
+msgid "Animated Header"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:45
+#: elementor/widgets/animated-header.php:77
+#: elementor/widgets/animated-header.php:92
+#: elementor/widgets/animated-header.php:307
+#: elementor/widgets/contact-info.php:170 vc-addons/addons/banner.php:94
+msgid "Heading"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:53
+#: elementor/widgets/image-compare.php:49 inc/metabox.php:67
+msgid "Layout"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:56
+msgid "Animated"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:57
+msgid "Typed"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:66
+msgid "Prefix Heading"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:69
+msgid "Hello I am"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:79 elementor/widgets/banner.php:84
+#: elementor/widgets/progressbar.php:84
+msgid "Enter your title"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:80
+msgid ""
+"Write animated heading here with comma separated. Such as Animated, "
+"Morphing, Awesome"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:81
+msgid "Animated,Morphing,Awesome"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:89
+#: elementor/widgets/animated-header.php:386
+msgid "Post Heading"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:91
+msgid "Enter your suffix title"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:155
+#: elementor/widgets/animated-header.php:166
+msgid "Animation"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:180
+msgid "Animation Duration"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:184
+#: elementor/widgets/mailchimp-newsletter.php:240
+msgid "Normal"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:185
+msgid "Slow"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:186
+msgid "Fast"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:198
+msgid "Animation Delay"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:214
+msgid "Type Speed"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:230
+msgid "Start Delay"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:246
+msgid "Back Speed"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:262
+msgid "Back Delay"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:278
+msgid "Loop"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:291
+msgid "Loop Count"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:345
+msgid "Pre Heading"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:356
+msgid "Pre Heading Color"
+msgstr ""
+
+#: elementor/widgets/animated-header.php:397
+msgid "Post Heading Color"
+msgstr ""
+
+#: elementor/widgets/banner.php:19
+msgid "Hero Block"
+msgstr ""
+
+#: elementor/widgets/banner.php:40 elementor/widgets/banner.php:60
+#: elementor/widgets/banner.php:252
+msgid "Sub Title"
+msgstr ""
+
+#: elementor/widgets/banner.php:48
+msgid "Show Horizontal Border"
+msgstr ""
+
+#: elementor/widgets/banner.php:50 elementor/widgets/intrinsic-headings.php:96
+#: elementor/widgets/service.php:184 inc/metabox.php:79 inc/metabox.php:99
+msgid "Show"
+msgstr ""
+
+#: elementor/widgets/banner.php:51 elementor/widgets/intrinsic-headings.php:97
+#: elementor/widgets/service.php:185 inc/metabox.php:80 inc/metabox.php:100
+msgid "Hide"
+msgstr ""
+
+#: elementor/widgets/banner.php:63
+msgid "Enter your sub title"
+msgstr ""
+
+#: elementor/widgets/banner.php:64
+msgid "Creative Freelancer"
+msgstr ""
+
+#: elementor/widgets/banner.php:73 elementor/widgets/banner.php:81
+#: elementor/widgets/banner.php:313 elementor/widgets/blog-posts.php:88
+#: elementor/widgets/blog-posts.php:215 elementor/widgets/contact-info.php:67
+#: elementor/widgets/counter-item.php:60 elementor/widgets/portfolio.php:103
+#: elementor/widgets/progressbar.php:82 elementor/widgets/service.php:51
+#: elementor/widgets/service.php:265 vc-addons/addons/blog.php:109
+#: vc-addons/addons/call-to-action.php:62 vc-addons/addons/contact-info.php:54
+#: vc-addons/addons/counter.php:56 vc-addons/addons/portfolio.php:183
+#: vc-addons/addons/progress-bar.php:46 vc-addons/addons/services.php:145
+msgid "Title"
+msgstr ""
+
+#: elementor/widgets/banner.php:85
+msgid "Zohan Williams"
+msgstr ""
+
+#: elementor/widgets/banner.php:94 vc-addons/addons/banner.php:100
+msgid "Designation"
+msgstr ""
+
+#: elementor/widgets/banner.php:102 elementor/widgets/banner.php:359
+msgid "Designation Item"
+msgstr ""
+
+#: elementor/widgets/banner.php:109
+msgid "Designation Name"
+msgstr ""
+
+#: elementor/widgets/banner.php:116
+msgid "Web Designer"
+msgstr ""
+
+#: elementor/widgets/banner.php:119
+msgid "Web Developer"
+msgstr ""
+
+#: elementor/widgets/banner.php:122
+msgid "Programmer"
+msgstr ""
+
+#: elementor/widgets/banner.php:134 elementor/widgets/banner.php:401
+msgid "Video Button"
+msgstr ""
+
+#: elementor/widgets/banner.php:142 vc-addons/addons/banner.php:117
+#: vc-addons/addons/call-to-action.php:69
+#: vc-addons/addons/call-to-action.php:109
+msgid "Button Text"
+msgstr ""
+
+#: elementor/widgets/banner.php:145
+msgid "Enter your Button Text"
+msgstr ""
+
+#: elementor/widgets/banner.php:146
+msgid "About Me"
+msgstr ""
+
+#: elementor/widgets/banner.php:153
+msgid "Video url"
+msgstr ""
+
+#: elementor/widgets/banner.php:156
+msgid "Enter your youtube, vimeo video url"
+msgstr ""
+
+#: elementor/widgets/banner.php:166
+msgid "Hero Background"
+msgstr ""
+
+#: elementor/widgets/banner.php:174
+msgid "Select Hero Background"
+msgstr ""
+
+#: elementor/widgets/banner.php:190
+msgid "Banner Styling"
+msgstr ""
+
+#: elementor/widgets/banner.php:198 elementor/widgets/call-to-actions.php:119
+#: elementor/widgets/contact-form.php:133
+#: elementor/widgets/contact-form.php:256
+#: elementor/widgets/contact-info.php:217
+#: elementor/widgets/counter-item.php:100
+#: elementor/widgets/intrinsic-headings.php:251
+#: elementor/widgets/layer-slider.php:69
+#: elementor/widgets/mailchimp-newsletter.php:206
+#: elementor/widgets/revolution-slider.php:69
+msgid "Margin"
+msgstr ""
+
+#: elementor/widgets/banner.php:222
+msgid "Set Height"
+msgstr ""
+
+#: elementor/widgets/banner.php:260 vc-addons/addons/banner.php:135
+msgid "Horizontal Border Color"
+msgstr ""
+
+#: elementor/widgets/banner.php:293 elementor/widgets/banner.php:338
+msgid "Typography:"
+msgstr ""
+
+#: elementor/widgets/banner.php:383
+msgid "Separator Color"
+msgstr ""
+
+#: elementor/widgets/banner.php:409 vc-addons/addons/call-to-action.php:131
+msgid "Button Color"
+msgstr ""
+
+#: elementor/widgets/banner.php:426
+msgid "Button Hover"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:20
+msgid "Blog Posts"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:41 elementor/widgets/contact-form.php:42
+#: elementor/widgets/layer-slider.php:41
+#: elementor/widgets/mailchimp-newsletter.php:42
+#: elementor/widgets/portfolio.php:42
+#: elementor/widgets/revolution-slider.php:41 elementor/widgets/service.php:42
+#: elementor/widgets/testimonials.php:41
+msgid "Content"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:49 elementor/widgets/portfolio.php:50
+msgid "Total Post"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:58 elementor/widgets/portfolio.php:59
+#: vc-addons/addons/blog.php:93 vc-addons/addons/portfolio.php:156
+msgid "Number Of Grids"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:62 elementor/widgets/portfolio.php:63
+#: vc-addons/addons/blog.php:99 vc-addons/addons/portfolio.php:162
+msgid "One Grid"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:63 elementor/widgets/portfolio.php:64
+#: vc-addons/addons/blog.php:98 vc-addons/addons/portfolio.php:161
+msgid "Two Grid"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:64 elementor/widgets/portfolio.php:65
+#: vc-addons/addons/blog.php:97 vc-addons/addons/portfolio.php:160
+msgid "Three Grid"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:65 elementor/widgets/portfolio.php:66
+#: vc-addons/addons/blog.php:96 vc-addons/addons/portfolio.php:159
+msgid "Four Grid"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:75 elementor/widgets/portfolio.php:90
+msgid "Shortings"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:83 elementor/widgets/portfolio.php:98
+msgid "Order By"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:87 elementor/widgets/blog-posts.php:196
+#: elementor/widgets/portfolio.php:102 vc-addons/addons/blog.php:108
+#: vc-addons/addons/portfolio.php:182
+msgid "Date"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:89 elementor/widgets/portfolio.php:104
+#: vc-addons/addons/blog.php:110 vc-addons/addons/portfolio.php:184
+msgid "Menu Order"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:90 elementor/widgets/portfolio.php:105
+#: vc-addons/addons/blog.php:111 vc-addons/addons/portfolio.php:185
+msgid "Random"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:98 elementor/widgets/portfolio.php:113
+msgid "Order"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:102 elementor/widgets/portfolio.php:117
+#: vc-addons/addons/blog.php:120 vc-addons/addons/portfolio.php:194
+msgid "ASC"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:103 elementor/widgets/portfolio.php:118
+#: vc-addons/addons/blog.php:121 vc-addons/addons/portfolio.php:195
+msgid "DESC"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:113
+msgid "Content Color"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:121
+msgid "Date Background"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:137
+msgid "Date Color"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:153 elementor/widgets/contact-info.php:127
+#: elementor/widgets/counter-item.php:140 elementor/widgets/portfolio.php:152
+#: vc-addons/addons/call-to-action.php:115 vc-addons/addons/contact-info.php:80
+msgid "Title Color"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:169 elementor/widgets/portfolio.php:168
+msgid "Category Color"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:187
+msgid "Content Typography"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:234
+msgid "Category"
+msgstr ""
+
+#: elementor/widgets/call-to-actions.php:20
+#: elementor/widgets/call-to-actions.php:41
+msgid "Call To Actions"
+msgstr ""
+
+#: elementor/widgets/call-to-actions.php:49
+msgid "Call To Title"
+msgstr ""
+
+#: elementor/widgets/call-to-actions.php:51
+#: elementor/widgets/call-to-actions.php:85
+msgid "Add Title"
+msgstr ""
+
+#: elementor/widgets/call-to-actions.php:52
+#: vc-addons/addons/call-to-action.php:63
+msgid "Let's Work On Your Next Projects"
+msgstr ""
+
+#: elementor/widgets/call-to-actions.php:59 vc-addons/addons/banner.php:130
+#: vc-addons/addons/call-to-action.php:92
+msgid "Background Image"
+msgstr ""
+
+#: elementor/widgets/call-to-actions.php:83
+msgid "Button Title"
+msgstr ""
+
+#: elementor/widgets/call-to-actions.php:93 vc-addons/addons/banner.php:123
+#: vc-addons/addons/call-to-action.php:76
+msgid "Button URL"
+msgstr ""
+
+#: elementor/widgets/call-to-actions.php:143
+msgid "Title Colors"
+msgstr ""
+
+#: elementor/widgets/call-to-actions.php:160
+msgid "Title Typo"
+msgstr ""
+
+#: elementor/widgets/call-to-actions.php:178
+msgid "Overlay Background"
+msgstr ""
+
+#: elementor/widgets/call-to-actions.php:194
+#: vc-addons/addons/call-to-action.php:123
+msgid "Button Background"
+msgstr ""
+
+#: elementor/widgets/call-to-actions.php:210
+msgid "Button Hover Background"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:21
+msgid "Contact Form 7"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:50
+msgid "Select Form"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:62
+msgid "Label Style"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:70
+msgid "Label Color"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:85
+msgid "Label Display"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:89
+msgid "inline"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:90
+msgid "block"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:91
+msgid "inline-block"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:113
+msgid "Field Style"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:145
+msgid "Fields Width"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:173
+#: elementor/widgets/contact-form.php:294
+#: elementor/widgets/mailchimp-newsletter.php:85
+#: elementor/widgets/mailchimp-newsletter.php:247
+#: elementor/widgets/mailchimp-newsletter.php:345
+#: elementor/widgets/mailchimp-newsletter.php:395
+#: elementor/widgets/progressbar.php:150
+msgid "Text Color"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:216
+msgid "Box Border"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:238
+msgid "Button Style"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:267
+msgid "Button Size"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:308 vc-addons/addons/portfolio.php:209
+msgid "Hover Text Color"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:323
+msgid "Background-color"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:337
+msgid "Hover Background color"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:370
+msgid "Button Border"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:379
+msgid "Button Border Hover"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:414 gutenberg-block/functions.php:68
+msgid "No contact forms found"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:20 elementor/widgets/contact-info.php:41
+#: vc-addons/addons/contact-info.php:34
+msgid "Contact Info"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:49
+msgid "Info Item"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:54 elementor/widgets/service.php:239
+msgid "Icon"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:60
+msgid "Or Custom Icon"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:95
+msgid "Icon Box Background"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:111
+msgid "Icon Box Color"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:143
+msgid "Description Color"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:161
+#: elementor/widgets/mailchimp-newsletter.php:219
+#: elementor/widgets/mailchimp-newsletter.php:326
+#: elementor/widgets/mailchimp-newsletter.php:410
+msgid "Typography"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:209
+#: elementor/widgets/intrinsic-headings.php:231
+msgid "Spacing"
+msgstr ""
+
+#: elementor/widgets/counter-item.php:20 elementor/widgets/counter-item.php:49
+#: vc-addons/addons/counter.php:44
+msgid "Counter Item"
+msgstr ""
+
+#: elementor/widgets/counter-item.php:41 elementor/widgets/counter-item.php:157
+msgid "Counter"
+msgstr ""
+
+#: elementor/widgets/counter-item.php:54 vc-addons/addons/progress-bar.php:52
+msgid "Counter Value"
+msgstr ""
+
+#: elementor/widgets/counter-item.php:68 vc-addons/addons/counter.php:57
+msgid "Happy Client"
+msgstr ""
+
+#: elementor/widgets/counter-item.php:72
+msgid "Years Experience"
+msgstr ""
+
+#: elementor/widgets/counter-item.php:76
+msgid "Award Winer"
+msgstr ""
+
+#: elementor/widgets/counter-item.php:80
+msgid "Project Complete"
+msgstr ""
+
+#: elementor/widgets/counter-item.php:124 elementor/widgets/service.php:325
+#: elementor/widgets/testimonials.php:111
+msgid "Background"
+msgstr ""
+
+#: elementor/widgets/counter-item.php:176
+msgid "Counter Title"
+msgstr ""
+
+#: elementor/widgets/counter-item.php:194
+msgid "Counter Color"
+msgstr ""
+
+#: elementor/widgets/counter-item.php:210
+msgid "Counter Devider Color"
+msgstr ""
+
+#: elementor/widgets/image-compare.php:20
+msgid "Image Before After"
+msgstr ""
+
+#: elementor/widgets/image-compare.php:57
+msgid "Before Image (Same Size of Both Image)"
+msgstr ""
+
+#: elementor/widgets/image-compare.php:69
+msgid "After Image (Same Size of Both Image)"
+msgstr ""
+
+#: elementor/widgets/image-compare.php:81
+#: elementor/widgets/image-compare.php:83
+msgid "Before Label"
+msgstr ""
+
+#: elementor/widgets/image-compare.php:93
+#: elementor/widgets/image-compare.php:95
+msgid "After Label"
+msgstr ""
+
+#: elementor/widgets/image-compare.php:105
+msgid "Orientation"
+msgstr ""
+
+#: elementor/widgets/image-compare.php:109
+msgid "Horizontal"
+msgstr ""
+
+#: elementor/widgets/image-compare.php:110
+msgid "Vertical"
+msgstr ""
+
+#: elementor/widgets/image-compare.php:128
+msgid "Before Background"
+msgstr ""
+
+#: elementor/widgets/image-compare.php:140
+msgid "Before Color"
+msgstr ""
+
+#: elementor/widgets/image-compare.php:152
+msgid "After Background"
+msgstr ""
+
+#: elementor/widgets/image-compare.php:165
+msgid "After Color"
+msgstr ""
+
+#: elementor/widgets/image-compare.php:177
+msgid "Bar Color"
+msgstr ""
+
+#: elementor/widgets/intrinsic-headings.php:20
+msgid "Intrinsic Headings"
+msgstr ""
+
+#: elementor/widgets/intrinsic-headings.php:49
+msgid "Heading Count"
+msgstr ""
+
+#: elementor/widgets/intrinsic-headings.php:51
+msgid "Enter heading count"
+msgstr ""
+
+#: elementor/widgets/intrinsic-headings.php:52
+msgid "01"
+msgstr ""
+
+#: elementor/widgets/intrinsic-headings.php:62
+msgid "Enter your heading here"
+msgstr ""
+
+#: elementor/widgets/intrinsic-headings.php:63
+msgid "I am Heading"
+msgstr ""
+
+#: elementor/widgets/intrinsic-headings.php:94
+msgid "Show Bottom Border"
+msgstr ""
+
+#: elementor/widgets/intrinsic-headings.php:108
+#: vc-addons/addons/advance-heading.php:61
+msgid "Counting"
+msgstr ""
+
+#: elementor/widgets/intrinsic-headings.php:205
+msgid "Large Border"
+msgstr ""
+
+#: elementor/widgets/intrinsic-headings.php:217
+msgid "Small Border"
+msgstr ""
+
+#: elementor/widgets/layer-slider.php:20
+msgid "Layer Slider"
+msgstr ""
+
+#: elementor/widgets/layer-slider.php:49
+#: elementor/widgets/revolution-slider.php:49
+msgid "Select Slider"
+msgstr ""
+
+#: elementor/widgets/layer-slider.php:101
+#: elementor/widgets/revolution-slider.php:101
+msgid "Select a slider"
+msgstr ""
+
+#: elementor/widgets/layer-slider.php:116
+msgid "LayerSlider #"
+msgstr ""
+
+#: elementor/widgets/mailchimp-newsletter.php:21
+msgid "Mailchimp Newsletter"
+msgstr ""
+
+#: elementor/widgets/mailchimp-newsletter.php:50
+msgid "Paste ShortCode"
+msgstr ""
+
+#: elementor/widgets/mailchimp-newsletter.php:52
+msgid "978"
+msgstr ""
+
+#: elementor/widgets/mailchimp-newsletter.php:53
+msgid ""
+"For show ID <a href=\"admin.php?page=mailchimp-for-wp-forms\" target=\"_blank"
+"\"> Click here </a>"
+msgstr ""
+
+#: elementor/widgets/mailchimp-newsletter.php:64
+msgid "Input"
+msgstr ""
+
+#: elementor/widgets/mailchimp-newsletter.php:72
+msgid "Placeholder Color"
+msgstr ""
+
+#: elementor/widgets/mailchimp-newsletter.php:110
+#: elementor/widgets/service.php:221
+msgid "Border Style"
+msgstr ""
+
+#: elementor/widgets/mailchimp-newsletter.php:161
+msgid "Fullwidth Input"
+msgstr ""
+
+#: elementor/widgets/mailchimp-newsletter.php:176
+msgid "Label"
+msgstr ""
+
+#: elementor/widgets/mailchimp-newsletter.php:184
+msgid "Label Position Top"
+msgstr ""
+
+#: elementor/widgets/mailchimp-newsletter.php:314
+msgid "Fullwidth Button"
+msgstr ""
+
+#: elementor/widgets/mailchimp-newsletter.php:338
+#: elementor/widgets/service.php:403
+msgid "Hover"
+msgstr ""
+
+#: elementor/widgets/mailchimp-newsletter.php:367
+msgid "Border Color"
+msgstr ""
+
+#: elementor/widgets/mailchimp-newsletter.php:387
+msgid "Additional Option"
+msgstr ""
+
+#: elementor/widgets/portfolio.php:74
+msgid "Portfolio Open With"
+msgstr ""
+
+#: elementor/widgets/portfolio.php:78
+msgid "Popup"
+msgstr ""
+
+#: elementor/widgets/portfolio.php:79 vc-addons/addons/portfolio.php:172
+msgid "Single Portfolio"
+msgstr ""
+
+#: elementor/widgets/portfolio.php:80
+#: inc/metaboxes/views/metaboxes/portfolio_options.php:14
+#: vc-addons/addons/portfolio.php:173
+msgid "Custom Links"
+msgstr ""
+
+#: elementor/widgets/portfolio.php:136
+msgid "Icon Color"
+msgstr ""
+
+#: elementor/widgets/portfolio.php:184
+msgid "Overlay Color"
+msgstr ""
+
+#: elementor/widgets/portfolio.php:200
+msgid "Overlay Border Color"
+msgstr ""
+
+#: elementor/widgets/progressbar.php:42 elementor/widgets/progressbar.php:75
+#: elementor/widgets/progressbar.php:108 vc-addons/addons/progress-bar.php:38
+msgid "Progress Bar"
+msgstr ""
+
+#: elementor/widgets/progressbar.php:85 vc-addons/addons/progress-bar.php:47
+msgid "My Skill"
+msgstr ""
+
+#: elementor/widgets/progressbar.php:93
+msgid "Percentage"
+msgstr ""
+
+#: elementor/widgets/progressbar.php:128
+msgid "Outer Background Color"
+msgstr ""
+
+#: elementor/widgets/progressbar.php:142
+msgid "Title Style"
+msgstr ""
+
+#: elementor/widgets/revolution-slider.php:20
+msgid "Slider Revolution"
+msgstr ""
+
+#: elementor/widgets/service.php:21 elementor/widgets/service.php:106
+#: vc-addons/addons/services.php:110
+msgid "Service"
+msgstr ""
+
+#: elementor/widgets/service.php:53 elementor/widgets/service.php:113
+msgid "Design"
+msgstr ""
+
+#: elementor/widgets/service.php:63 vc-addons/addons/contact-info.php:47
+msgid "Icon Code"
+msgstr ""
+
+#: elementor/widgets/service.php:72
+msgid "or Image Icon"
+msgstr ""
+
+#: elementor/widgets/service.php:95
+msgid "Service Hover Content"
+msgstr ""
+
+#: elementor/widgets/service.php:118
+msgid "Developing"
+msgstr ""
+
+#: elementor/widgets/service.php:123
+msgid "Programming"
+msgstr ""
+
+#: elementor/widgets/service.php:136
+msgid "Content Settings"
+msgstr ""
+
+#: elementor/widgets/service.php:144
+msgid "Enable Carousel/Grid"
+msgstr ""
+
+#: elementor/widgets/service.php:146 vc-addons/addons/services.php:121
+msgid "Grid"
+msgstr ""
+
+#: elementor/widgets/service.php:147 vc-addons/addons/services.php:122
+msgid "Carousel"
+msgstr ""
+
+#: elementor/widgets/service.php:156
+msgid "Display Item"
+msgstr ""
+
+#: elementor/widgets/service.php:169
+msgid "Item Spacing"
+msgstr ""
+
+#: elementor/widgets/service.php:182
+msgid "Show Dot Nav"
+msgstr ""
+
+#: elementor/widgets/service.php:195
+msgid "Show Loop"
+msgstr ""
+
+#: elementor/widgets/service.php:197 elementor/widgets/service.php:210
+msgid "Enable"
+msgstr ""
+
+#: elementor/widgets/service.php:198 elementor/widgets/service.php:211
+msgid "Disable"
+msgstr ""
+
+#: elementor/widgets/service.php:208
+msgid "Center Item"
+msgstr ""
+
+#: elementor/widgets/service.php:225
+msgid "One Column"
+msgstr ""
+
+#: elementor/widgets/service.php:226
+msgid "Two Column"
+msgstr ""
+
+#: elementor/widgets/service.php:227
+msgid "Three Column"
+msgstr ""
+
+#: elementor/widgets/service.php:228
+msgid "Four Column"
+msgstr ""
+
+#: elementor/widgets/service.php:317
+msgid "Item"
+msgstr ""
+
+#: elementor/widgets/service.php:341
+msgid "Center Item Background"
+msgstr ""
+
+#: elementor/widgets/service.php:357
+msgid "Dot Color"
+msgstr ""
+
+#: elementor/widgets/service.php:373
+msgid "Active Dot Color"
+msgstr ""
+
+#: elementor/widgets/service.php:411
+msgid "Card Hover Background"
+msgstr ""
+
+#: elementor/widgets/service.php:427
+msgid "Card Hover Text Color"
+msgstr ""
+
+#: elementor/widgets/service.php:498 elementor/widgets/service.php:521
+#: elementor/widgets/service.php:548 elementor/widgets/service.php:571
+msgid "Service Icons"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:20 elementor/widgets/testimonials.php:49
+msgid "Testimonials"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:53 vc-addons/addons/testimonials.php:63
+msgid "Zohan Smith"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:54 elementor/widgets/testimonials.php:82
+msgid "Chif Dighal Officer"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:61
+msgid "Name"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:68
+msgid "Image"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:79
+msgid "Position"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:86
+msgid "Testimonial"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:103
+msgid "Color Control"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:127 vc-addons/addons/testimonials.php:88
+msgid "Client Name Color"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:143
+msgid "Quote Color"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:159
+msgid "Thumbnail Border Color"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:175
+msgid "Carousel Dot Color"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:191
+msgid "Carousel Dot Active Color"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:209
+msgid "Typography Control"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:218
+#: elementor/widgets/testimonials.php:237
+msgid "Client Name:"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:258
+msgid "Spacing Control"
+msgstr ""
+
+#: functions.php:52
+msgid "Share on Facebook"
+msgstr ""
+
+#: functions.php:55
+msgid "Share on Twitter"
+msgstr ""
+
+#: functions.php:59
+msgid "Share on GooglePlus"
+msgstr ""
+
+#: functions.php:63
+msgid "Share on Linkedin"
+msgstr ""
+
+#: functions.php:66
+msgid "Share on Pinterest"
+msgstr ""
+
+#: gutenberg-block/functions.php:82
+msgid "No Contact Form Selected"
+msgstr ""
+
+#: gutenberg-block/functions.php:206
+msgid "Intrinsic Blocks"
+msgstr ""
+
+#: gutenberg-block/php-blocks/blog.php:27
+#: gutenberg-block/php-blocks/portfolio.php:26
+#: inc/demo-import/inc/WidgetImporter.php:279
+msgid "No Title"
+msgstr ""
+
+#: inc/demo-import/inc/CustomizerImporter.php:37
+#: inc/demo-import/inc/CustomizerImporter.php:45
+msgid "Importing customizer settings"
+msgstr ""
+
+#: inc/demo-import/inc/CustomizerImporter.php:43
+msgid "Customizer settings import finished!"
+msgstr ""
+
+#: inc/demo-import/inc/CustomizerImporter.php:73
+#, php-format
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr ""
+
+#: inc/demo-import/inc/CustomizerImporter.php:93
+msgid ""
+"Error: The customizer import file is not in a correct format. Please make "
+"sure to use the correct customizer import file."
+msgstr ""
+
+#: inc/demo-import/inc/CustomizerImporter.php:99
+msgid ""
+"Error: The customizer import file is not suitable for current theme. You can "
+"only import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: inc/demo-import/inc/Downloader.php:58
+msgid "Missing URL for downloading a file!"
+msgstr ""
+
+#: inc/demo-import/inc/Downloader.php:76
+#, php-format
+msgid ""
+"An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - "
+"%6$s."
+msgstr ""
+
+#: inc/demo-import/inc/Helpers.php:197 inc/demo-import/inc/Helpers.php:240
+#, php-format
+msgid ""
+"An error occurred while writing file to your server! Tried to write a file "
+"to: %s%s."
+msgstr ""
+
+#: inc/demo-import/inc/Helpers.php:274
+#, php-format
+msgid ""
+"An error occurred while reading a file from your server! Tried reading file "
+"from path: %s%s."
+msgstr ""
+
+#: inc/demo-import/inc/Helpers.php:297
+#, php-format
+msgid ""
+"This WordPress page does not have %sdirect%s write file access. This plugin "
+"needs it in order to save the demo import xml file to the upload directory "
+"of your site. You can change this setting with these instructions: %s."
+msgstr ""
+
+#: inc/demo-import/inc/Helpers.php:308
+#: inc/demo-import/inc/OneClickDemoImport.php:137
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/demo-import/inc/Helpers.php:309
+#: inc/demo-import/inc/OneClickDemoImport.php:138
+#: inc/demo-import/views/plugin-page.php:114
+#: inc/demo-import/views/plugin-page.php:126
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/demo-import/inc/Helpers.php:321
+msgid ""
+"An error occurred while retrieving reading/writing permissions to your "
+"server (could not retrieve WP filesystem credentials)!"
+msgstr ""
+
+#: inc/demo-import/inc/Helpers.php:329
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr ""
+
+#: inc/demo-import/inc/Helpers.php:369
+msgid "One Click Demo Import - "
+msgstr ""
+
+#: inc/demo-import/inc/Helpers.php:403
+#, php-format
+msgid ""
+"%sYour user role isn't high enough. You don't have permission to import demo "
+"data.%s"
+msgstr ""
+
+#: inc/demo-import/inc/Helpers.php:449
+#, php-format
+msgid "Content file was not uploaded. Error: %s"
+msgstr ""
+
+#: inc/demo-import/inc/Helpers.php:453 inc/demo-import/inc/Helpers.php:470
+#: inc/demo-import/inc/Helpers.php:487 inc/demo-import/inc/Helpers.php:498
+#: inc/demo-import/inc/Helpers.php:518 inc/demo-import/inc/Helpers.php:526
+msgid "Upload files"
+msgstr ""
+
+#: inc/demo-import/inc/Helpers.php:466
+#, php-format
+msgid "Widget file was not uploaded. Error: %s"
+msgstr ""
+
+#: inc/demo-import/inc/Helpers.php:483
+#, php-format
+msgid "Customizer file was not uploaded. Error: %s"
+msgstr ""
+
+#: inc/demo-import/inc/Helpers.php:496
+msgid "Missing Redux option name! Please also enter the Redux option name!"
+msgstr ""
+
+#: inc/demo-import/inc/Helpers.php:514
+#, php-format
+msgid "Redux file was not uploaded. Error: %s"
+msgstr ""
+
+#: inc/demo-import/inc/Helpers.php:524
+msgid "The import files were successfully uploaded!"
+msgstr ""
+
+#: inc/demo-import/inc/Helpers.php:550
+#, php-format
+msgid "Initial max execution time = %s"
+msgstr ""
+
+#: inc/demo-import/inc/Helpers.php:554
+#, php-format
+msgid ""
+"Files info:%1$sSite URL = %2$s%1$sData file = %3$s%1$sWidget file = %4$s"
+"%1$sCustomizer file = %5$s%1$sRedux files:%1$s%6$s"
+msgstr ""
+
+#: inc/demo-import/inc/Helpers.php:557 inc/demo-import/inc/Helpers.php:558
+#: inc/demo-import/inc/Helpers.php:559 inc/demo-import/inc/Helpers.php:560
+msgid "not defined!"
+msgstr ""
+
+#: inc/demo-import/inc/Importer.php:172
+msgid "New AJAX call!"
+msgstr ""
+
+#: inc/demo-import/inc/OneClickDemoImport.php:190
+msgid "No preview image defined for this import."
+msgstr ""
+
+#: inc/demo-import/inc/OneClickDemoImport.php:191
+msgid "Are you sure?"
+msgstr ""
+
+#: inc/demo-import/inc/OneClickDemoImport.php:192
+msgid "Cancel"
+msgstr ""
+
+#: inc/demo-import/inc/OneClickDemoImport.php:193
+msgid "Yes, import!"
+msgstr ""
+
+#: inc/demo-import/inc/OneClickDemoImport.php:194
+msgid "Selected demo import:"
+msgstr ""
+
+#: inc/demo-import/inc/OneClickDemoImport.php:241
+msgid "Manually uploaded files"
+msgstr ""
+
+#: inc/demo-import/inc/OneClickDemoImport.php:254
+#: inc/demo-import/inc/OneClickDemoImport.php:265
+msgid "Downloaded files"
+msgstr ""
+
+#: inc/demo-import/inc/OneClickDemoImport.php:261
+#, php-format
+msgid "The import files for: %s were successfully downloaded!"
+msgstr ""
+
+#: inc/demo-import/inc/OneClickDemoImport.php:270
+msgid "No import files specified!"
+msgstr ""
+
+#: inc/demo-import/inc/OneClickDemoImport.php:391
+msgid "Just used One Click Demo Import plugin and it was awesome! Thanks"
+msgstr ""
+
+#: inc/demo-import/inc/OneClickDemoImport.php:396
+#, php-format
+msgid ""
+"%1$s%3$sThat's it, all done!%4$s%2$sThe demo import has finished. Please "
+"check your page and make sure that everything has imported correctly. %3$s"
+"%4$s.%5$s"
+msgstr ""
+
+#: inc/demo-import/inc/OneClickDemoImport.php:407
+#, php-format
+msgid ""
+"%1$sThe demo import has finished, but there were some import errors.%2$sMore "
+"details about the errors can be found in this %3$s%5$slog file%6$s%4$s%7$s"
+msgstr ""
+
+#: inc/demo-import/inc/ReduxImporter.php:23
+msgid "The Redux plugin is not activated, so the Redux import was skipped!"
+msgstr ""
+
+#: inc/demo-import/inc/ReduxImporter.php:32
+#: inc/demo-import/inc/ReduxImporter.php:53
+#: inc/demo-import/inc/ReduxImporter.php:66
+msgid "Importing Redux settings"
+msgstr ""
+
+#: inc/demo-import/inc/ReduxImporter.php:51
+#, php-format
+msgid "Redux settings import for: %s finished successfully!"
+msgstr ""
+
+#: inc/demo-import/inc/ReduxImporter.php:57
+#, php-format
+msgid ""
+"The Redux option name: %s, was not found in this WP site, so it was not "
+"imported!"
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:34
+msgid "There are no predefined demo imports for currently active theme!"
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:37
+msgid "Here are the predefined demo imports:"
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:71
+msgid ""
+"At least one of the possible options should be set! Check them with --help"
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:122
+msgid ""
+"The \"predefined\" parameter should be a number (an index of the OCDI "
+"predefined demo import)!"
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:128
+msgid ""
+"The supplied predefined index does not exist! Please take a look at the "
+"available predefined demo imports:"
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:135
+msgid "Predefined demo import started! All other parameters will be ignored!"
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:140
+#, php-format
+msgid "Selected predefined demo import: %s"
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:143
+msgid "Preparing the demo import files..."
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:148
+msgid "Demo import files could not be retrieved!"
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:151
+msgid "Demo import files retrieved successfully!"
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:153
+msgid "Importing..."
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:173
+msgid "Predefined import finished!"
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:185
+msgid "Content import file provided does not exist! Skipping this import!"
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:194
+msgid "Importing content (this might take a while)..."
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:196
+msgid "Importing content"
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:201
+msgid "Content import finished!"
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:204
+msgid "There were some issues while importing the content!"
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:223
+msgid "Widgets import file provided does not exist! Skipping this import!"
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:227
+msgid "Importing widgets..."
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:232
+msgid "Widgets imported successfully!"
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:235
+msgid "There were some issues while importing widgets!"
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:254
+msgid "Customizer import file provided does not exist! Skipping this import!"
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:258
+msgid "Importing customizer settings..."
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:263
+msgid "Customizer settings imported successfully!"
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:266
+msgid "There were some issues while importing customizer settings!"
+msgstr ""
+
+#: inc/demo-import/inc/WPCLICommands.php:286
+#, php-format
+msgid "Executing action: %s ..."
+msgstr ""
+
+#: inc/demo-import/inc/WidgetImporter.php:40
+#: inc/demo-import/inc/WidgetImporter.php:52
+msgid "Importing widgets"
+msgstr ""
+
+#: inc/demo-import/inc/WidgetImporter.php:88
+msgid "Error: Widget import file could not be found."
+msgstr ""
+
+#: inc/demo-import/inc/WidgetImporter.php:118
+msgid ""
+"Error: Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: inc/demo-import/inc/WidgetImporter.php:157
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: inc/demo-import/inc/WidgetImporter.php:178
+msgid "Site does not support widget"
+msgstr ""
+
+#: inc/demo-import/inc/WidgetImporter.php:211
+msgid "Widget already exists"
+msgstr ""
+
+#: inc/demo-import/inc/WidgetImporter.php:269
+msgid "Imported"
+msgstr ""
+
+#: inc/demo-import/inc/WidgetImporter.php:273
+msgid "Imported to Inactive"
+msgstr ""
+
+#: inc/demo-import/inc/WidgetImporter.php:326
+msgid "No results for widget import!"
+msgstr ""
+
+#: inc/demo-import/one-click-demo-import.php:44
+#, php-format
+msgid ""
+"The %2$sDemo Import%3$s plugin requires %2$sPHP 5.3.2+%3$s to run properly. "
+"Please contact your hosting company and ask them to update the PHP version "
+"of your site to at least PHP 5.3.2.%4$s Your current version of PHP: %2$s%1$s"
+"%3$s"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:131
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:167
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:283
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:356
+#, php-format
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) and may "
+"not be supported. Please consider updating."
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:506
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:566
+msgid "Invalid author mapping"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:667
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:755
+#, php-format
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:765
+#, php-format
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:843
+#, php-format
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:857
+#, php-format
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:889
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1772
+#, php-format
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:894
+#, php-format
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:934
+#, php-format
+msgid "Failed to import term: %s - %s"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1075
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1558
+#, php-format
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1579
+#, php-format
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1583
+#, php-format
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1733
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1777
+#, php-format
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1835
+#, php-format
+msgid "Failed to add metakey: %s, metavalue: %s to term_id: %d"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1844
+#, php-format
+msgid "Meta for term_id %d : %s => %s ; successfully added!"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1895
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1917
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1923
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1948
+#, php-format
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1961
+#, php-format
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1966
+#, php-format
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1980
+#, php-format
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1985
+#, php-format
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2011
+#, php-format
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2022
+#, php-format
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2067
+#, php-format
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2072
+#, php-format
+msgid ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could not be "
+"found"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2094
+#, php-format
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2098
+#, php-format
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2112
+#, php-format
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2116
+#, php-format
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2133
+#, php-format
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2162
+#, php-format
+msgid "Faulty term_id provided in terms-to-be-remapped array %s"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2172
+#, php-format
+msgid "No taxonomy provided in terms-to-be-remapped array for term #%d"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2183
+#, php-format
+msgid "No parent_slug identified in remapping-array for term: %d"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2191
+#, php-format
+msgid "The term(%d)\"s parent_slug (%s) is not found in the remapping-array."
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2205
+#, php-format
+msgid "No data returned by get_term_by for term_id #%d"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2224
+#, php-format
+msgid "Could not update \"%s\" (term #%d) with mapped data"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2234
+#, php-format
+msgid "Term %d was successfully updated with parent %d"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2269
+msgid "Starting remapping of featured images"
+msgstr ""
+
+#: inc/demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2278
+#, php-format
+msgid "Remapping featured image ID %d to new ID %d for post ID %d"
+msgstr ""
+
+#: inc/demo-import/views/plugin-page.php:21
+msgid "Demo Import"
+msgstr ""
+
+#: inc/demo-import/views/plugin-page.php:31
+#, php-format
+msgid ""
+"%sWarning: your server is using %sPHP safe mode%s. This means that you might "
+"experience server timeout errors.%s"
+msgstr ""
+
+#: inc/demo-import/views/plugin-page.php:44
+msgid "Before you begin, make sure all the required plugins are activated."
+msgstr ""
+
+#: inc/demo-import/views/plugin-page.php:48
+msgid "When you import the data, the following things might happen:"
+msgstr ""
+
+#: inc/demo-import/views/plugin-page.php:51
+msgid ""
+"No existing posts, pages, categories, images, custom post types or any other "
+"data will be deleted or modified."
+msgstr ""
+
+#: inc/demo-import/views/plugin-page.php:52
+msgid ""
+"Posts, pages, images, widgets, menus and theme settings/customizer option "
+"will get imported."
+msgstr ""
+
+#: inc/demo-import/views/plugin-page.php:53
+msgid ""
+"Please click on the Import button only once and wait, sometimes it can take "
+"a couple of minutes. Depended on your Internet Speed/Server Max Execution "
+"Time."
+msgstr ""
+
+#: inc/demo-import/views/plugin-page.php:54
+msgid ""
+"Each demo package include three pages, One is Default Home which is build "
+"with elementor page builder, Another page build with visual composer, And "
+"another one is for gutenberg blocks "
+msgstr ""
+
+#: inc/demo-import/views/plugin-page.php:59
+msgid "Switch to manual import!"
+msgstr ""
+
+#: inc/demo-import/views/plugin-page.php:61
+msgid "Switch back to theme predefined imports!"
+msgstr ""
+
+#: inc/demo-import/views/plugin-page.php:77
+msgid ""
+"There are no predefined import files available in this theme. Please upload "
+"the import files manually!"
+msgstr ""
+
+#: inc/demo-import/views/plugin-page.php:84
+msgid "Manual demo files upload"
+msgstr ""
+
+#: inc/demo-import/views/plugin-page.php:87
+msgid "Choose a XML file for content import:"
+msgstr ""
+
+#: inc/demo-import/views/plugin-page.php:92
+msgid "Choose a WIE or JSON file for widget import:"
+msgstr ""
+
+#: inc/demo-import/views/plugin-page.php:97
+msgid "Choose a DAT file for customizer import:"
+msgstr ""
+
+#: inc/demo-import/views/plugin-page.php:103
+msgid "Choose a JSON file for Redux import:"
+msgstr ""
+
+#: inc/demo-import/views/plugin-page.php:106
+msgid "Enter the Redux option name:"
+msgstr ""
+
+#: inc/demo-import/views/plugin-page.php:141
+msgid "All"
+msgstr ""
+
+#: inc/demo-import/views/plugin-page.php:148
+msgid "Search demos..."
+msgstr ""
+
+#: inc/demo-import/views/plugin-page.php:169
+msgid "No preview image."
+msgstr ""
+
+#: inc/demo-import/views/plugin-page.php:174
+msgid "Import"
+msgstr ""
+
+#: inc/demo-import/views/plugin-page.php:176
+msgid "Preview"
+msgstr ""
+
+#: inc/demo-import/views/plugin-page.php:189
+msgid "Importing, please wait!"
+msgstr ""
+
+#: inc/metabox.php:55
+msgid "Custom Settings"
+msgstr ""
+
+#: inc/metabox.php:77
+msgid "Header Part"
+msgstr ""
+
+#: inc/metabox.php:97
+msgid "Footer Part"
+msgstr ""
+
+#: inc/metabox.php:115
+msgid "Service Meta"
+msgstr ""
+
+#: inc/metabox.php:127
+msgid "Service Content"
+msgstr ""
+
+#: inc/metabox.php:137
+msgid "Service Icon"
+msgstr ""
+
+#: inc/metabox.php:138
+msgid "You can also add bootstrap class like: fa fa-facebook"
+msgstr ""
+
+#: inc/metabox.php:154
+msgid "Short Title"
+msgstr ""
+
+#: inc/metabox.php:161
+msgid "Web Designing"
+msgstr ""
+
+#: inc/metabox.php:170
+msgid "Short Description"
+msgstr ""
+
+#: inc/metabox.php:177
+msgid "Her extensive perceived may any sincerity extremity"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:16
+msgid "Post Options"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:19
+msgid "Page Options"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:22
+msgid "Portfolio Options"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:27
+msgid "Default Options"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:257
+msgid "Add Images"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/default_options.php:2
+#: inc/metaboxes/views/metaboxes/page_options.php:4
+#: inc/metaboxes/views/metaboxes/page_options.php:6
+#: inc/metaboxes/views/metaboxes/post_options.php:2
+msgid "Header"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/default_options.php:3
+#: inc/metaboxes/views/metaboxes/page_options.php:8
+#: inc/metaboxes/views/metaboxes/post_options.php:4
+msgid "Content Area"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/default_options.php:4
+#: inc/metaboxes/views/metaboxes/page_options.php:9
+#: inc/metaboxes/views/metaboxes/post_options.php:5
+msgid "Footer"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/default_options.php:9
+#: inc/metaboxes/views/metaboxes/page_options.php:36
+#: inc/metaboxes/views/metaboxes/post_options.php:10
+msgid "Show header"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/default_options.php:10
+#: inc/metaboxes/views/metaboxes/default_options.php:15
+#: inc/metaboxes/views/metaboxes/default_options.php:25
+#: inc/metaboxes/views/metaboxes/page_options.php:37
+#: inc/metaboxes/views/metaboxes/page_options.php:78
+#: inc/metaboxes/views/metaboxes/post_options.php:11
+#: inc/metaboxes/views/metaboxes/post_options.php:16
+#: inc/metaboxes/views/metaboxes/post_options.php:37
+#: inc/metaboxes/views/metaboxes/post_options.php:47
+msgid "Theme Setting"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/default_options.php:13
+#: inc/metaboxes/views/metaboxes/page_options.php:40
+#: inc/metaboxes/views/metaboxes/post_options.php:14
+msgid "Choose to show or hide the header."
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/default_options.php:14
+#: inc/metaboxes/views/metaboxes/post_options.php:15
+msgid "Enable sticky menu"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/default_options.php:18
+#: inc/metaboxes/views/metaboxes/page_options.php:46
+#: inc/metaboxes/views/metaboxes/post_options.php:19
+msgid "Choose to enable or disable sticky menu."
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/default_options.php:23
+#: inc/metaboxes/views/metaboxes/post_options.php:35
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/default_options.php:28
+#: inc/metaboxes/views/metaboxes/post_options.php:41
+msgid "Select the sidebar position."
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/default_options.php:34
+#: inc/metaboxes/views/metaboxes/post_options.php:25
+msgid "Padding Top"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/default_options.php:35
+#: inc/metaboxes/views/metaboxes/default_options.php:39
+#: inc/metaboxes/views/metaboxes/page_options.php:62
+#: inc/metaboxes/views/metaboxes/page_options.php:65
+#: inc/metaboxes/views/metaboxes/page_options.php:68
+#: inc/metaboxes/views/metaboxes/page_options.php:71
+#: inc/metaboxes/views/metaboxes/portfolio_options.php:15
+#: inc/metaboxes/views/metaboxes/post_options.php:26
+#: inc/metaboxes/views/metaboxes/post_options.php:30
+msgid "Leave it empty for default."
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/default_options.php:38
+#: inc/metaboxes/views/metaboxes/post_options.php:29
+msgid "Padding Bottom"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/default_options.php:44
+#: inc/metaboxes/views/metaboxes/page_options.php:77
+#: inc/metaboxes/views/metaboxes/post_options.php:46
+msgid "Show footer"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/default_options.php:48
+#: inc/metaboxes/views/metaboxes/page_options.php:81
+#: inc/metaboxes/views/metaboxes/post_options.php:50
+msgid "Choose to show or hide the footer."
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/page_options.php:3
+msgid "Gutenberg Options"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/page_options.php:15
+msgid "Show Page Title"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/page_options.php:16
+msgid "Select to display title"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/page_options.php:19
+msgid "Choose to show or hide the page title."
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/page_options.php:20
+#: inc/metaboxes/views/metaboxes/portfolio_options.php:22
+msgid "Show featured image in the content"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/page_options.php:21
+#: inc/metaboxes/views/metaboxes/portfolio_options.php:23
+msgid "Select to display Featured Image"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/page_options.php:24
+#: inc/metaboxes/views/metaboxes/portfolio_options.php:26
+msgid "Choose no to hide featured image in the content area."
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/page_options.php:42
+msgid "Enable sticky/fixed header"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/page_options.php:48
+msgid "Select Menu For Page"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/page_options.php:48
+msgid "Show Diffrent Menu at diffrent pages."
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/page_options.php:50
+msgid "Header Main Logo"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/page_options.php:50
+msgid "Choose Page Header Main Logo."
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/page_options.php:57
+msgid "Page Custom Background Color"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/page_options.php:58
+msgid "Add your Page Custom Background Color"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/page_options.php:61
+#: vc-addons/addons/call-to-action.php:97
+msgid "Spacing Top"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/page_options.php:64
+#: vc-addons/addons/call-to-action.php:103
+msgid "Spacing Bottom"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/page_options.php:67
+msgid "Article Spacing Top"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/page_options.php:70
+msgid "Article Spacing Bottom"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/portfolio_options.php:7
+msgid "Masonry Image Size"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/portfolio_options.php:8
+msgid "X * X"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/portfolio_options.php:9
+msgid "X * 2X"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/portfolio_options.php:10
+msgid "2X * X"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/portfolio_options.php:11
+msgid "2X * 2X"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/portfolio_options.php:12
+msgid "Select featured image size in masonry layout."
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/portfolio_options.php:17
+msgid "Show Portfolio Title"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/portfolio_options.php:18
+msgid "Select to display Title"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/portfolio_options.php:21
+msgid "Choose no to hide Title in the content area."
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/post_options.php:3
+msgid "Sidebars"
+msgstr ""
+
+#: inc/metaboxes/views/metaboxes/post_options.php:40
+msgid "Full Width"
+msgstr ""
+
+#: vc-addons/addons/advance-heading.php:53
+msgid "Advance Heading"
+msgstr ""
+
+#: vc-addons/addons/advance-heading.php:55 vc-addons/addons/banner.php:75
+#: vc-addons/addons/blog.php:81 vc-addons/addons/call-to-action.php:56
+#: vc-addons/addons/contact-info.php:36 vc-addons/addons/counter.php:39
+#: vc-addons/addons/portfolio.php:144 vc-addons/addons/progress-bar.php:40
+#: vc-addons/addons/services.php:112 vc-addons/addons/testimonials.php:46
+msgid "Intrinsic Component"
+msgstr ""
+
+#: vc-addons/addons/advance-heading.php:67
+msgid "Heading Text"
+msgstr ""
+
+#: vc-addons/addons/advance-heading.php:68
+msgid "My Heading"
+msgstr ""
+
+#: vc-addons/addons/advance-heading.php:74
+msgid "Display Border Bottom"
+msgstr ""
+
+#: vc-addons/addons/advance-heading.php:76
+msgid "Enable or disable border bottom element."
+msgstr ""
+
+#: vc-addons/addons/advance-heading.php:81
+#: vc-addons/addons/call-to-action.php:82
+msgid "Heading Alignments"
+msgstr ""
+
+#: vc-addons/addons/advance-heading.php:82
+#: vc-addons/addons/call-to-action.php:83
+msgid "Change Your Heading Alignments"
+msgstr ""
+
+#: vc-addons/addons/advance-heading.php:92 vc-addons/addons/counter.php:68
+#: vc-addons/addons/progress-bar.php:58
+msgid "Heading Counting Color"
+msgstr ""
+
+#: vc-addons/addons/advance-heading.php:93 vc-addons/addons/counter.php:69
+#: vc-addons/addons/progress-bar.php:59
+msgid "Change Your Heading Counting Colors"
+msgstr ""
+
+#: vc-addons/addons/advance-heading.php:94
+#: vc-addons/addons/advance-heading.php:102
+#: vc-addons/addons/advance-heading.php:110
+#: vc-addons/addons/advance-heading.php:118 vc-addons/addons/banner.php:137
+#: vc-addons/addons/banner.php:144 vc-addons/addons/banner.php:152
+#: vc-addons/addons/banner.php:159 vc-addons/addons/banner.php:167
+#: vc-addons/addons/banner.php:174 vc-addons/addons/banner.php:182
+#: vc-addons/addons/banner.php:190 vc-addons/addons/blog.php:129
+#: vc-addons/addons/blog.php:137 vc-addons/addons/blog.php:145
+#: vc-addons/addons/blog.php:153 vc-addons/addons/call-to-action.php:117
+#: vc-addons/addons/call-to-action.php:125
+#: vc-addons/addons/call-to-action.php:133 vc-addons/addons/contact-info.php:74
+#: vc-addons/addons/contact-info.php:82 vc-addons/addons/contact-info.php:90
+#: vc-addons/addons/counter.php:70 vc-addons/addons/counter.php:78
+#: vc-addons/addons/portfolio.php:203 vc-addons/addons/portfolio.php:211
+#: vc-addons/addons/progress-bar.php:60 vc-addons/addons/progress-bar.php:68
+#: vc-addons/addons/progress-bar.php:76 vc-addons/addons/testimonials.php:82
+#: vc-addons/addons/testimonials.php:90 vc-addons/addons/testimonials.php:98
+msgid "Content Styling"
+msgstr ""
+
+#: vc-addons/addons/advance-heading.php:100
+msgid "Heading Color"
+msgstr ""
+
+#: vc-addons/addons/advance-heading.php:101 vc-addons/addons/counter.php:77
+msgid "Change Your Heading Colors"
+msgstr ""
+
+#: vc-addons/addons/advance-heading.php:108
+#: vc-addons/addons/progress-bar.php:74
+msgid "Border Small Color"
+msgstr ""
+
+#: vc-addons/addons/advance-heading.php:109
+#: vc-addons/addons/progress-bar.php:75
+msgid "Change Your Border Small Colors"
+msgstr ""
+
+#: vc-addons/addons/advance-heading.php:116
+msgid "Border Large Color"
+msgstr ""
+
+#: vc-addons/addons/advance-heading.php:117
+msgid "Change Your Border Large Colors"
+msgstr ""
+
+#: vc-addons/addons/banner.php:73
+msgid "Author Banner"
+msgstr ""
+
+#: vc-addons/addons/banner.php:74
+msgid "Author hero banner"
+msgstr ""
+
+#: vc-addons/addons/banner.php:81
+msgid "Display Horizontal Border"
+msgstr ""
+
+#: vc-addons/addons/banner.php:83
+msgid "Enable or disable horizontal border element."
+msgstr ""
+
+#: vc-addons/addons/banner.php:106
+msgid "Designations"
+msgstr ""
+
+#: vc-addons/addons/banner.php:124
+msgid "Added Video URL"
+msgstr ""
+
+#: vc-addons/addons/banner.php:136
+msgid "Change Horizontal Border Colors"
+msgstr ""
+
+#: vc-addons/addons/banner.php:143
+msgid "Sub Heading Font Size"
+msgstr ""
+
+#: vc-addons/addons/banner.php:150
+msgid "Sub Heading Color"
+msgstr ""
+
+#: vc-addons/addons/banner.php:151
+msgid "Change Sub Heading Colors"
+msgstr ""
+
+#: vc-addons/addons/banner.php:158
+msgid "Name Font Size"
+msgstr ""
+
+#: vc-addons/addons/banner.php:165
+msgid "Name Color"
+msgstr ""
+
+#: vc-addons/addons/banner.php:166
+msgid "Change Name Colors"
+msgstr ""
+
+#: vc-addons/addons/banner.php:173
+msgid "Designation Font Size"
+msgstr ""
+
+#: vc-addons/addons/banner.php:180
+msgid "Designation Color"
+msgstr ""
+
+#: vc-addons/addons/banner.php:181
+msgid "Change Designation Colors"
+msgstr ""
+
+#: vc-addons/addons/banner.php:188
+msgid "Video Button Color"
+msgstr ""
+
+#: vc-addons/addons/banner.php:189
+msgid "Change Video Button Colors"
+msgstr ""
+
+#: vc-addons/addons/blog.php:79
+msgid "Blog"
+msgstr ""
+
+#: vc-addons/addons/blog.php:80
+msgid "Blog Components"
+msgstr ""
+
+#: vc-addons/addons/blog.php:87 vc-addons/addons/portfolio.php:150
+msgid "Number Of Post Display"
+msgstr ""
+
+#: vc-addons/addons/blog.php:94 vc-addons/addons/portfolio.php:157
+msgid "Change Your Grid Columns"
+msgstr ""
+
+#: vc-addons/addons/blog.php:105
+msgid "Blog Item Shorting"
+msgstr ""
+
+#: vc-addons/addons/blog.php:106
+msgid "Short Your Blog Item"
+msgstr ""
+
+#: vc-addons/addons/blog.php:117 vc-addons/addons/blog.php:118
+msgid "Blog Item Order By"
+msgstr ""
+
+#: vc-addons/addons/blog.php:127
+msgid "Publish Date Background"
+msgstr ""
+
+#: vc-addons/addons/blog.php:128
+msgid "Change Your Publish Date Background Colors"
+msgstr ""
+
+#: vc-addons/addons/blog.php:135
+msgid "Publish Date Color"
+msgstr ""
+
+#: vc-addons/addons/blog.php:136
+msgid "Change Your Publish Date Colors"
+msgstr ""
+
+#: vc-addons/addons/blog.php:143
+msgid "Post Title Color"
+msgstr ""
+
+#: vc-addons/addons/blog.php:144
+msgid "Change Your Post Title Colors"
+msgstr ""
+
+#: vc-addons/addons/blog.php:151
+msgid "Category Text Color"
+msgstr ""
+
+#: vc-addons/addons/blog.php:152
+msgid "Change Your Category Text Colors"
+msgstr ""
+
+#: vc-addons/addons/call-to-action.php:54
+msgid "Call To Action"
+msgstr ""
+
+#: vc-addons/addons/call-to-action.php:55
+msgid "Call To Action Components"
+msgstr ""
+
+#: vc-addons/addons/call-to-action.php:70
+msgid "Hire Me Know"
+msgstr ""
+
+#: vc-addons/addons/call-to-action.php:85
+msgid "Self Window"
+msgstr ""
+
+#: vc-addons/addons/call-to-action.php:86
+msgid "New Window"
+msgstr ""
+
+#: vc-addons/addons/call-to-action.php:116 vc-addons/addons/contact-info.php:81
+msgid "Change Your Title Colors"
+msgstr ""
+
+#: vc-addons/addons/call-to-action.php:124
+msgid "Change Your Button Background Colors"
+msgstr ""
+
+#: vc-addons/addons/call-to-action.php:132
+msgid "Change Your Button Colors"
+msgstr ""
+
+#: vc-addons/addons/call-to-action.php:139
+msgid "Background Version"
+msgstr ""
+
+#: vc-addons/addons/call-to-action.php:140
+msgid "Change Your Background Version"
+msgstr ""
+
+#: vc-addons/addons/call-to-action.php:142
+msgid "Light Overlay"
+msgstr ""
+
+#: vc-addons/addons/call-to-action.php:143
+msgid "Dark Overlay"
+msgstr ""
+
+#: vc-addons/addons/contact-info.php:35
+msgid "Contact Info Components"
+msgstr ""
+
+#: vc-addons/addons/contact-info.php:41 vc-addons/addons/testimonials.php:51
+msgid "Quote Item"
+msgstr ""
+
+#: vc-addons/addons/contact-info.php:48 vc-addons/addons/services.php:153
+msgid ""
+"Find Icon Code From - <a href=\"https://fontawesome.com/icons?d=gallery\" "
+"rel=\"nofollow\" target=\"_blank\">https://fontawesome.com/icons?d=gallery</"
+"a> "
+msgstr ""
+
+#: vc-addons/addons/contact-info.php:55
+msgid "Mail"
+msgstr ""
+
+#: vc-addons/addons/contact-info.php:72 vc-addons/addons/testimonials.php:80
+msgid "Quote Background Color"
+msgstr ""
+
+#: vc-addons/addons/contact-info.php:73 vc-addons/addons/testimonials.php:81
+msgid "Change Your Quote Background Colors"
+msgstr ""
+
+#: vc-addons/addons/contact-info.php:88
+msgid "Contact Description Color"
+msgstr ""
+
+#: vc-addons/addons/contact-info.php:89
+msgid "Change Your Contact Description Colors"
+msgstr ""
+
+#: vc-addons/addons/counter.php:37
+msgid "Fun Fact Counter"
+msgstr ""
+
+#: vc-addons/addons/counter.php:38
+msgid "Fun Fact Counter Components"
+msgstr ""
+
+#: vc-addons/addons/counter.php:50
+msgid "Count Number"
+msgstr ""
+
+#: vc-addons/addons/counter.php:76
+msgid "Counting Color"
+msgstr ""
+
+#: vc-addons/addons/portfolio.php:143
+msgid "Portfolio Components"
+msgstr ""
+
+#: vc-addons/addons/portfolio.php:168
+msgid "Portfolio Item Open With"
+msgstr ""
+
+#: vc-addons/addons/portfolio.php:169
+msgid "Change Portfolio Item Open With"
+msgstr ""
+
+#: vc-addons/addons/portfolio.php:171
+msgid "Pop Up"
+msgstr ""
+
+#: vc-addons/addons/portfolio.php:179
+msgid "Portfolio Item Shorting"
+msgstr ""
+
+#: vc-addons/addons/portfolio.php:180
+msgid "Short Your Portfolio Item"
+msgstr ""
+
+#: vc-addons/addons/portfolio.php:191 vc-addons/addons/portfolio.php:192
+msgid "Portfolio Item Order By"
+msgstr ""
+
+#: vc-addons/addons/portfolio.php:201
+msgid "Portfolio Hover Background"
+msgstr ""
+
+#: vc-addons/addons/portfolio.php:202
+msgid "Change Your Portfolio Hover Background Colors"
+msgstr ""
+
+#: vc-addons/addons/portfolio.php:210
+msgid "Change Your Portfolio Text Color Colors"
+msgstr ""
+
+#: vc-addons/addons/progress-bar.php:39
+msgid "Progress Bar Components"
+msgstr ""
+
+#: vc-addons/addons/progress-bar.php:66
+msgid "Outer Background"
+msgstr ""
+
+#: vc-addons/addons/progress-bar.php:67
+msgid "Change Your Outer Background Colors"
+msgstr ""
+
+#: vc-addons/addons/services.php:111
+msgid "Author Service"
+msgstr ""
+
+#: vc-addons/addons/services.php:118
+msgid "Select Service Style"
+msgstr ""
+
+#: vc-addons/addons/services.php:119
+msgid "Change Service Style. Ex- Grid or carousel"
+msgstr ""
+
+#: vc-addons/addons/services.php:128
+msgid "Select Service Columns"
+msgstr ""
+
+#: vc-addons/addons/services.php:129
+msgid "Change Service Columns"
+msgstr ""
+
+#: vc-addons/addons/services.php:131
+msgid "One Columns"
+msgstr ""
+
+#: vc-addons/addons/services.php:132
+msgid "Two Columns"
+msgstr ""
+
+#: vc-addons/addons/services.php:133
+msgid "Three Columns"
+msgstr ""
+
+#: vc-addons/addons/services.php:134
+msgid "Four Columns"
+msgstr ""
+
+#: vc-addons/addons/services.php:139
+msgid "Service Items"
+msgstr ""
+
+#: vc-addons/addons/services.php:152
+msgid "Service Icons Code"
+msgstr ""
+
+#: vc-addons/addons/services.php:159 vc-addons/addons/services.php:165
+msgid "Service Description"
+msgstr ""
+
+#: vc-addons/addons/services.php:170
+msgid "Lists"
+msgstr ""
+
+#: vc-addons/addons/services.php:187
+msgid "Select Service Theme"
+msgstr ""
+
+#: vc-addons/addons/services.php:188
+msgid "Change Service Theme. Ex- Light or Dark Version"
+msgstr ""
+
+#: vc-addons/addons/services.php:190
+msgid "Light"
+msgstr ""
+
+#: vc-addons/addons/services.php:191
+msgid "Dark"
+msgstr ""
+
+#: vc-addons/addons/services.php:197
+msgid "Select Item Display"
+msgstr ""
+
+#: vc-addons/addons/services.php:198
+msgid "Change Item that wow many Item you want to display?"
+msgstr ""
+
+#: vc-addons/addons/services.php:200
+msgid "1"
+msgstr ""
+
+#: vc-addons/addons/services.php:201
+msgid "2"
+msgstr ""
+
+#: vc-addons/addons/services.php:202
+msgid "3"
+msgstr ""
+
+#: vc-addons/addons/services.php:203
+msgid "4"
+msgstr ""
+
+#: vc-addons/addons/testimonials.php:44
+msgid "Client Testimonials"
+msgstr ""
+
+#: vc-addons/addons/testimonials.php:45
+msgid "Client Testimonials Components"
+msgstr ""
+
+#: vc-addons/addons/testimonials.php:57
+msgid "Client Image"
+msgstr ""
+
+#: vc-addons/addons/testimonials.php:62
+msgid "Client Name"
+msgstr ""
+
+#: vc-addons/addons/testimonials.php:69
+msgid "Client Quote"
+msgstr ""
+
+#: vc-addons/addons/testimonials.php:70
+msgid ""
+"It is a long established fact that a reader will be distracted by the "
+"readable content of a page when established fact that a reader will be "
+"looking at its layout."
+msgstr ""
+
+#: vc-addons/addons/testimonials.php:89
+msgid "Change Your Client Name Colors"
+msgstr ""
+
+#: vc-addons/addons/testimonials.php:96
+msgid "Client Quote Color"
+msgstr ""
+
+#: vc-addons/addons/testimonials.php:97
+msgid "Change Your Client Quote Colors"
+msgstr ""
+
+#: vc-addons/functions.php:45
+msgid "Css"
+msgstr ""
+
+#: vc-addons/functions.php:47
+msgid "Design options"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Intrinsic Core"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://intrinsic.softhopper.net/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin is some component/shortcode/blocks and essential function for "
+"Intrinsic Creative Portfolio WordPress theme, To use Intrinsic theme "
+"properly you must install this plugin."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SoftHopper"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://softhopper.net/"
+msgstr ""

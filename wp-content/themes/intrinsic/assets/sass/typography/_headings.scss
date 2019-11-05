@@ -1,0 +1,317 @@
+/*--------------------------------------------------------------
+# Heading
+--------------------------------------------------------------*/
+h1, h2, h3, h4, h5, h6 {
+	clear: both;
+	font-family: $font_heading;
+	line-height: $font__line-height-heading;
+	color: $soft_black;
+	font-weight: 500;
+	-webkit-font-smoothing: antialiased;
+}
+
+h1 {
+  	font-size: $heading__one;
+}
+
+h2 {
+	font-size: $heading__two;
+}
+
+h3 {
+	font-size: $heading__three;
+}
+
+h4 {
+	font-size: $heading__four;
+}
+
+h5 {
+	font-size: $heading__five;
+}
+
+h6 {
+	font-size: $heading__six;
+}
+
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a {
+    color: inherit;
+    text-decoration: none
+}
+h1 a:hover,
+h2 a:hover,
+h3 a:hover,
+h4 a:hover {
+    color: inherit;
+    text-decoration: none;
+}
+
+.theme-dark {
+    h1, h2, h3, h4, h5, h6 {
+        color: $white;
+    }
+    .section-title .title-main {
+        color: $white !important;
+    }
+}
+
+.extra-lg-title {
+    font-size: $heading__one * 3;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: $harley_davidson_orange;
+    margin: 0;
+    position: absolute;
+    left: -8px;
+    right: 0;
+    text-align: center;
+    top: -75px;
+    @media only screen and (max-width: 767px) {
+        font-size: $heading__one;
+    }
+}
+
+.section-heading {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-top: 0;
+    position: relative;
+}
+
+.section-title {
+    position: relative;
+    padding-top: 75px;
+    margin-bottom: 60px;
+    .title-counter {
+        font-size: ($heading__one * 3);
+        font-weight: 700;
+        color: $color__border-two;
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        z-index: 0;
+        line-height: 1;
+    }
+    .title-main {
+        font-weight: 800;
+        font-size: $heading__one;
+        text-transform: uppercase;
+        position: relative;
+        z-index: 2;
+    }
+    &.dark {
+        .title-counter {
+            color: #252c48;
+        }
+        .title-main {
+            color: $white;
+        }
+    }
+}
+
+.sm-title {
+    font-family: inherit;
+    color: $night_rider;
+    font-weight: bold;
+    letter-spacing: 0.015em;
+}
+
+.xl-title {
+    font-weight: 700;
+    font-size: $heading__one;
+    span {
+        color: $harley_davidson_orange;
+    }
+}
+
+.rotation-title {
+    text-transform: uppercase;
+    font-weight: bold;
+    position: relative;
+    @media only screen and (min-width: 768px) {
+        margin-top: -15px;
+        white-space: nowrap;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translateX(-50%) translateY(-50%) rotate(-90deg);
+    }
+    &:before {
+        content: "";
+        width: 45px;
+        height: 2px;
+        display: block;
+        background: $harley_davidson_orange;
+        position: absolute;
+        right: -55px;
+        top: 12px;
+        @media only screen and (max-width: 768px) {
+            display: none;
+        }
+    }
+}
+
+/*--------------------------------------------------------------
+# Extra Headings
+--------------------------------------------------------------*/
+.intrinsic-heading {
+    .intrinsic-pre-heading, 
+    .intrinsic-animated-heading, 
+    .intrinsic-post-heading {
+        display: inline-block;
+    }
+    a {
+        color: inherit;
+        &:hover {
+            color: inherit;
+        }
+    }
+    span {
+        display: inline-block;
+    }
+    .typed-cursor {
+        opacity: 1;
+        font-weight: 100;
+        -webkit-animation: typed-blink 0.7s infinite;
+        -moz-animation: typed-blink 0.7s infinite;
+        -ms-animation: typed-blink 0.7s infinite;
+        -o-animation: typed-blink 0.7s infinite;
+        animation: typed-blink 0.7s infinite;
+    }
+}
+
+.intrinsic-advanced-heading {
+    .intrinsic-heading-tag {
+        margin: 0;
+        padding: 0;
+    }
+    a {
+        color: inherit;
+        &:hover {
+            color: inherit;
+        }
+    }
+    .intrinsic-sub-heading,
+    .intrinsic-main-heading {
+        z-index: 1;
+        position: relative;
+    }
+    .intrinsic-sub-heading {
+        display: inline-block;
+        line-height: 1;
+    }
+    .intrinsic-sub-heading-content,
+    .intrinsic-main-heading {
+        display: inline-block;
+        vertical-align: middle;
+    }
+    .intrinsic-sub-heading .line:after,
+    .intrinsic-main-heading .line:after {
+        content: "";
+        background-color: #1e87f0;
+        height: 2px;
+        width: 40px;
+        display: inline-block;
+        vertical-align: middle;
+    }
+    .intrinsic-sub-heading .line.intrinsic-button-icon-align-bottom,
+    .intrinsic-main-heading .line.intrinsic-button-icon-align-bottom {
+        line-height: 0;
+    }
+    .intrinsic-advanced-heading-content {
+        color: rgba(156, 156, 156, 0.12);
+        z-index: 0;
+        font-size: 60px;
+        text-transform: uppercase;
+        font-weight: 700;
+        line-height: 1;
+        bottom: 0;
+        width: 100%;
+        transition: all 0.3s ease-out;
+        position: absolute;
+    }
+    .intrinsic-advanced-heading-content > div {
+        display: inline-block;
+    }
+}
+.intrinsic-ep-main-color-yes .intrinsic-advanced-heading .intrinsic-main-heading {
+    background-color: transparent;
+    background-image: linear-gradient(240deg, #0E83CD 0, #8062d4 100%);
+    background-clip: text;
+    text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.intrinsic-ep-advanced-color-yes .intrinsic-advanced-heading .intrinsic-advanced-heading-content > div {
+    background-color: transparent;
+    background-image: linear-gradient(240deg, #0E83CD 0, #8062d4 100%);
+    background-clip: text;
+    text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+/*--------------------------------------------------------------
+# Animations Type Blink
+--------------------------------------------------------------*/
+@keyframes typed-blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+@-webkit-keyframes typed-blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+@-moz-keyframes typed-blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+@-ms-keyframes typed-blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+@-o-keyframes typed-blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
